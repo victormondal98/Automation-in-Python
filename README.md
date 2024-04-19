@@ -3,6 +3,7 @@
 1. Web Scrapping: HTML, Xpath Expressions, Selenium (Scrapping tool for python), ChromeDriver (WebDriver for chrome)
 
    Notes:
+   
        1. Don't download ChromeDriver manually:
        While it's possible to find ChromeDriver downloads online,
        it's not recommended.  Manually downloaded versions might become incompatible with Chrome updates.
@@ -21,7 +22,7 @@
        practice.
 
 
-2. Data Transferring: Pandas (Data frame tool), CSV
+3. Data Transferring: Pandas (Data frame tool), CSV
 
    Notes:
        1. Pandas:
